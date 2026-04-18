@@ -132,5 +132,3 @@ The notebook is organized into these sections:
 
 ## Conclusion
 This project demonstrates how CNN can be used for a real-world image classification task like face mask detection. It covers the full pipeline from raw image data to model evaluation and prediction. The project is simple, practical, and useful for understanding how deep learning can be applied to safety-related computer vision problems.
-
----
